@@ -22,7 +22,7 @@ Please go to This Link:
 **Browser Tested:** Yes  
 **Performance Tested:** Yes  
 
-## Test Case Execution Summary 🚀
+## Test Case Execution Summarys 🚀
 - **Total Test Cases:** `10`
 - **Pass:** `6` ✅
 - **Fail:** `4` ❌
