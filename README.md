@@ -9,7 +9,7 @@ Please go to This Link:
    https://github.com/mituldas1999/Contract_Manager_automation-Testing/issues/1
 
 
-   # Orangetoolz Test Case Summary Report 📊
+   # Orangetoolz Test Case Summary Reports 📊
 
 ## Overview
 **Product Name:** Orangetoolz  
